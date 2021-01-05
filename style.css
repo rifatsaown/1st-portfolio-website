@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: 'Work Sans', sans-serif; 
 }
 h1{
@@ -14,4 +15,26 @@ h1{
 }
 .half-width img{
     width: 100%;
+}
+p{
+    color: dimgray;
+}
+.top-img{
+    background-image: url("img/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{ height: 500px;
+    padding-bottom: 150px}
+.contact{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    font-weight: 900;
+    color: white;   
+    border-radius: 50px;
+}
+.dream{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
