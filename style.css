@@ -1,1 +1,17 @@
-
+body{
+    font-family: 'Work Sans', sans-serif; 
+}
+h1{
+    font-size: 50px;
+}
+.name{ color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
